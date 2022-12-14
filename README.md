@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Demo Link]()
+[Demo Link](https://raw.githack.com/Takhmina175/Photo-Slideshow/main/index.html)
 
 
 👤 **Takhmina Makhkamova**
